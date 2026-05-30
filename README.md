@@ -143,7 +143,7 @@ Building scalable web applications, AI-powered solutions, and innovative digital
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
   </a>
 
-  <a href="https://studiogenz.onrender.com/">
+  <a href="#">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 </p>
