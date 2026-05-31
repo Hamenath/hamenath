@@ -9,6 +9,9 @@ Building scalable web applications, AI-powered solutions, and innovative digital
 </p>
 
 <p align="center">
+  <a href="https://www.hamenath.online/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=hamenathmurali@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
@@ -143,7 +146,7 @@ Building scalable web applications, AI-powered solutions, and innovative digital
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
   </a>
 
-  <a href="#">
+  <a href="https://www.hamenath.online/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 </p>
