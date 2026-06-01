@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Hamenath B</h1>
+<h1 align="center">Hamenath B</h1>
 
 <h3 align="center">
 🚀 Full Stack Developer | 🏆 SIH 2025 Winner | 🤖 AI Enthusiast
