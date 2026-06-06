@@ -62,6 +62,9 @@ Building scalable web applications, AI-powered solutions, and innovative digital
 
 ## 🚀 Featured Projects
 
+🌦️ **Prompt2Site**
+🔗 https://prompt2site-8pjd.onrender.com/
+
 🌦️ **Weatherify**
 🔗 https://weatherify-roan.vercel.app/
 
